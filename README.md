@@ -1,6 +1,7 @@
 # DevOps Engineer Lab
 ## Introduction
-In this Lab, you will design, implement, deploy and monitor a simple web-based conference registration platform using one of Python, Ruby or PHP programming languages. More specifically, you will be required to:
+In this Lab, you will design, implement, deploy and monitor a simple web-based UbuntuNet-Connect conference registration platform using one of Python, Ruby or PHP programming languages. You can decide on the registration fields but should be atleast 6 with a file attachment option. You may also do basic styling on the registration page.
+More specifically, you will be required to:
 1. Create 2-3 page design and/or architecture document to support high availability of the platform.
 2. Implement the platform. You are highly recommended not to use programming language frameworks for this Lab. For every new registration, the organizers should receive an email notification on **devops[at]ubuntunet[dot]net** with new details and a summary of all the registrations. The platform should be TLS/SSL secured.
 3. Deploy the platform. You will deploy the containerized setup of the platform on the infrastructure availed [Please share a copy of your SSH public key to **alex.mwotil[at]ubuntunet[dot]net** to be granted access to a Virtual Machine]. You will be required to rename the virtual machine accordingly. I will also respond with the SMTP settings that you may require for this Lab.
