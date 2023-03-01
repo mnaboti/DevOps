@@ -14,5 +14,6 @@ In this Lab, you will design, implement, deploy and monitor a simple web-based c
 4. Access to the platform and monitoring tools used.
 
 ## Submission
-All the artefacts above should be available on your private Github repository that you will share a link to for assessment. For grading, grant the repository access to **mwotila[at]gmail[dot]com**
+All the artefacts above should be available on your private Github repository that you will share a link to for assessment. For grading, grant the repository access to **mwotila[at]gmail[dot]com**.
+#
 The deadline for submissions is Tuesday, March 7, 2023 5PM CAT. Ensure that all the commits are in before the deadline.
