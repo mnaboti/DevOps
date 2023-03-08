@@ -17,4 +17,4 @@ More specifically, you will be required to:
 ## Submission
 All the artefacts above should be available on your private Github repository that you will share a link to for assessment. For grading, grant the repository access to **mwotila[at]gmail[dot]com**.
 #
-The deadline for submissions is Tuesday, March 7, 2023 5PM CAT. Ensure that all the commits are in before the deadline.
+The deadline for submissions is Tuesday, March 8, 2023 5PM CAT. Ensure that all the commits are in before the deadline.
